@@ -8,4 +8,4 @@ I did basicly registration, login and finding users. Now i work to chat function
 - database MySql
 - libary MySql
 
-Its my first project in C#
+Its my first project in C#, so i need train
