@@ -1,4 +1,4 @@
-# SimpleChatInC-
+# SimpleChatInC#
 WARNING I DONT ENDED THIS PROJECT! CHAT FUNCTION NOW NOT DID
 
 # Now, i did what?
