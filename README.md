@@ -9,3 +9,6 @@ I did basicly registration, login and finding users. Now i work to chat function
 - libary MySql
 
 Its my first project in C#, so i need train
+
+Update:
+Project now dont have support
